@@ -30,7 +30,7 @@ create a 'div' to warp the map link and give it a class name let's say google-ma
 apply this CSS to google-map class
 
 ```css
-//map responsiveness code
+<!--map responsiveness code-->
 
 
 .google-map {
