@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hello  I'm Qusai Alfaki
 
 ### More Information
 
