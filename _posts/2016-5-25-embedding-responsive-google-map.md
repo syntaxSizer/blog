@@ -43,7 +43,7 @@ apply this CSS to google-map class
         }
 
 <!--Note google-map most be the warpper class of the map-->
-<!--next we need to apply some code to the content of google-map class and it's the iframe tag-->
+<!--next we need to apply this code to the iframe tag-->
 
 
 .google-map iframe {
