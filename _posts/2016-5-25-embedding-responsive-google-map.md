@@ -1,4 +1,9 @@
-# How to Embed google map
+---
+layout: post
+title: How to Embed google map
+---
+
+
 
 ### steps to embed responsive google map in your web page
 
