@@ -10,11 +10,11 @@ whie you are in google maps zoom in the location you want to embed
 click on share button on your left side see picture
 
 
-![image](/images/screenshot1.png)
+![image](../images/screenshot1.png)
 
 The next step is to copy the link from the window that will pop up after you click the share button.  Paste the link in your web page.
 
-![image](/images/Screenshot2.png)
+![image](../images/Screenshot2.png)
 
 Thats how you Embed a google map in your web page.
 
@@ -29,14 +29,16 @@ apply this CSS to google-map class
 
 
 .google-map {
-            position: relative;  //note the position of the warpper must be relative
-            padding-bottom: 75%; // This is the aspect ratio
+            position: relative;
+<!--            note the position of the warpper must be relative-->
+            padding-bottom: 75%;
+<!--            This is the aspect ratio-->
             height: 0;
             overflow: hidden;
         }
 
-//Note google-map most be the warpper class of the map
-//next we need to apply some code to the content of google-map class and it's the iframe tag
+<!--Note google-map most be the warpper class of the map-->
+<!--next we need to apply some code to the content of google-map class and it's the iframe tag-->
 
 
 .google-map iframe {
@@ -46,6 +48,6 @@ apply this CSS to google-map class
             width: 100% ;
             height: 100% ;
         }
-
+```
 
 Thats all enjoy a respnsive google map in your web page
