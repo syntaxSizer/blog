@@ -11,7 +11,7 @@ on a daily basis, I work on complex front-end projects with up-to-date languages
   
   other intreasets
 ---
-   - vedio games
+   - video games
    - music
    - playing and watching soccer
    
