@@ -35,6 +35,7 @@ java is divided into four main components as show in the image
 ![image](../images/java-platform-componenet.png)
 
  java language: all these components are based on java (written in java)
+
 - java SE (java slandered Edition): is the base of the whole platform and it contains the main classes and utils, it also contain different collections that helps you enhance the way you developing the program.
 
 
