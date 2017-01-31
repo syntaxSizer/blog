@@ -7,15 +7,15 @@ title: java platform
 I have decided to blog about my java learning journey to be specific I am aiming on becoming an expert in android developement, for that I am starting from java basics since it's the language used to develop android applications (also refered to as native apps).
 
 
-####before I start:
+#### before I start:
 
 you might come across unfamiliar terms or you may not fully understand the explanation, you can leave me a comment.
 
 
-####what is java ?:
+#### what is java ?:
 java is a set of tools, platform and funny enough also a cup of coffee (it was funny when I found out about the coffee).
 this set of tools allows you to develop an execute java programs.
-####A bit of background:
+#### A bit of background:
 
 java was born during the Green Project 1992 - 1995 by James Gosling (also named as <i>the father of java</i> ).
 the project was intended to develop langauge that can be use in embedded systems. Embedded systems are small computers that exist in the microwave, cars, or even your digital watch, to run set of instructions defined to achieve specific task such display data etc.
@@ -42,7 +42,7 @@ java is divided into four main components as show in the image
  - java EE (Enterprise Edition) it's an API that allows you to develop server-side logic for web apps or even desktop app as demonstrated in the picture
  java EE and java Fx uses java SE technology, and also because of todays powerful processors we can run different programs allowing us to achieve more complex functionalities
 
- #### Summray:
+#### Summray:
  we learned about java platform components
  - java standard Edition
  - java Micro Edition
